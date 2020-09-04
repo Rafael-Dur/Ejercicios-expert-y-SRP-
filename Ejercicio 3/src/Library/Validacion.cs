@@ -40,8 +40,6 @@ namespace Library
                 isValid = false;
             }
 
-           
-
             return stringBuilder.ToString();
         }
     }
